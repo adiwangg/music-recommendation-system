@@ -1,30 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 16 15:17:34 2020
-
-@author: mingjunliu
-"""
-
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 16 01:40:50 2020
-
-@author: mingjunliu
-"""
-
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  9 18:10:53 2020
-
-@author: mingjunliu
-"""
-
-
 import pdb
 import collections
 import numpy as np
